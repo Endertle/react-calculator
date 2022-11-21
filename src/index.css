@@ -50,6 +50,7 @@ body {
   flex-direction: column;
   justify-content: space-around;
   padding: 1rem;
+  word-break: break-all;
 }
 
 .output .prev-operand {
